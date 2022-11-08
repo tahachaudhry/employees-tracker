@@ -32,3 +32,6 @@ into the integrated terminal to download all dependencies. See package.json file
 ## How to Use
 
 Open your terminal and change into the corresponding directory. Run "node index.js" and you will be prompted with options.
+
+## VIDEO
+(https://drive.google.com/file/d/17MEXpAOwZaHBljhhA2lCsw0aPm0S3gRP/view?usp=share_link)
